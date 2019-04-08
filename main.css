@@ -1,0 +1,59 @@
+/*
+    font-family: 'ZCOOL XiaoWei', serif;
+
+    font-family: 'Acme', sans-serif;
+
+    font-family: 'Press Start 2P', cursive;
+
+    font-family: 'Lemon', cursive;
+
+    font-family: 'Indie Flower', cursive;
+
+    font-family: 'Hanalei Fill', cursive;
+
+    font-family: 'Sonsie One', cursive;
+
+    font-family: 'Goblin One', cursive;
+*/
+body
+{
+	background-color: #343f3e;
+	color: #dfdfdf;
+	text-shadow: 1px 1px 0px black;
+}
+
+#container
+{
+	width: 80%;
+	height: 100vh;
+	margin: 0px auto;
+	border-left: 3px solid #E2C044;
+	border-right: 3px solid #E2C044;
+	text-align: center;
+	padding-top: 20px;
+	box-sizing: border-box;
+}
+
+#liczby
+{
+	margin-bottom: 20px;
+}
+
+#liczby_do_wpisania
+{
+	width: 200px;
+	display: flex;
+	flex-direction: column;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.licz
+{
+	margin-bottom: 5px;
+}
+
+#sumowanie
+{
+	margin-top: 10px;
+}
